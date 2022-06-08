@@ -6,7 +6,12 @@
 > As a user
 >So that I can see websites I visit regularly
 >I would like to see a list of all bookmarks
+```
 
+```
+> As a user
+>So that I can save a website
+>I would like to add the site's address and title to bookmark manager
 ```
 
 ## Domain Model
@@ -21,6 +26,15 @@ Clone this repository and then run:
 ```
 bundle
 ```
+### To set up the database
+
+Connect to `psql` and create the `bookmark_manager` database:
+
+```
+CREATE DATABASE bookmark_manager;
+```
+
+To set up the appropriate tables, connect to the database in `psql` and run the SQL scripts in the `db/migrations` folder in the given order.
 
 ### To run the Bookmark Manager app:
 
