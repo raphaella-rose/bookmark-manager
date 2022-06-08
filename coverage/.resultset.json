@@ -1,0 +1,56 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/raphaella/Desktop/~\\Projects/week4/spec/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/raphaella/Desktop/~\\Projects/week4/lib/bookmark.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          10,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/raphaella/Desktop/~\\Projects/week4/spec/features/viewing_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1654700698
+  }
+}
