@@ -14,6 +14,18 @@
 >I would like to add the site's address and title to bookmark manager
 ```
 
+```
+> As a user
+>So that I can save a website
+>I would like to add the site's address and title to bookmark manager
+```
+
+```
+> As a user
+>So that I can store bookmark data for later retrieval
+>I want to add a bookmark to Bookmark Manager
+```
+
 ## Domain Model
 ![Bookmark Manager domain model](./public/images/bookmark_manager_1.png)
 

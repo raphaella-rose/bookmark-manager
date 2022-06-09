@@ -32,14 +32,28 @@
           null,
           1,
           1,
-          2,
-          2,
+          3,
+          3,
           null,
           0,
           null,
           null,
-          2,
-          10,
+          3,
+          12,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/raphaella/Desktop/~\\Projects/week4/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
           null,
           null,
           null
@@ -70,6 +84,6 @@
         ]
       }
     },
-    "timestamp": 1654703895
+    "timestamp": 1654773593
   }
 }
