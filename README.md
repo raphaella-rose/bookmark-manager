@@ -26,6 +26,12 @@
 >I want to add a bookmark to Bookmark Manager
 ```
 
+```
+> As a user
+>So that I can remove my bookmark from Bookmark Manager
+>I want to delete a bookmark
+```
+
 ## Domain Model
 ![Bookmark Manager domain model](./public/images/bookmark_manager_1.png)
 

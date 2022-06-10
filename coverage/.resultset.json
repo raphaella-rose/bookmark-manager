@@ -37,6 +37,15 @@
           null,
           null,
           null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -66,6 +75,22 @@
           null
         ]
       },
+      "/Users/raphaella/Desktop/~\\Projects/week4/spec/features/deleting_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/raphaella/Desktop/~\\Projects/week4/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -88,6 +113,6 @@
         ]
       }
     },
-    "timestamp": 1654804000
+    "timestamp": 1654853723
   }
 }
